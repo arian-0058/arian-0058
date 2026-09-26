@@ -58,9 +58,3 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arian-0058&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arian-0058&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" width="45%" />
-</div>
