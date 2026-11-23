@@ -2,11 +2,11 @@
 
 # Hi there, I'm Arian 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=DevOps+%26+Infrastructure+Engineer;Linux+%26+Containerization+Practitioner;Building+Reliable+%26+Automated+Pipelines;Exploring+AI+%26+Python+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=DevOps+%26+Infrastructure+Engineer;Linux+%26+Containerization+Practitioner;Automating+Infra+with+Ansible+%26+CI%2FCD;Exploring+AI+%26+Python+Automation)](https://git.io/typing-svg)
 
 <p align="center">
-  Focusing on <b>Reliability, Automation, and Incident Engineering</b>.<br/>
-  Passionate about Linux internals, container ecosystems, and cloud-native workflows.
+  Focusing on <b>DevOps, Reliability, Configuration Management (Ansible), and Incident Engineering</b>.<br/>
+  Passionate about Linux internals, agentless automation, container ecosystems, and cloud-native workflows.
 </p>
 
 <!-- Social Links -->
@@ -29,7 +29,9 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <!-- CI/CD & Security -->
+  <!-- DevOps, Automation & CI/CD -->
+  <img src="https://img.shields.io/badge/DevOps-Automation_%26_SRE-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/DevSecOps-Trivy_|_Hadolint-4B32C3?style=flat-square" />
   <!-- Data & Backend -->
@@ -44,6 +46,9 @@
 
 ### 🚀 Highlighted Repositories & Labs
 
+- 🤖 **[ansible-server-provisioner](https://github.com/arian-0058/ansible-server-provisioner)**
+  *Agentless Ubuntu server provisioning and hardening using modular Ansible roles (`base_security` & `docker_engine`), dynamic Jinja2 templates, UFW/Fail2ban, and verified idempotency.*
+
 - 🔍 **[devops-troubleshooting-scenario](https://github.com/arian-0058/devops-troubleshooting-scenario)**
   *Hands-on DevOps Incident Lab: real-world failure injection scripts, root-cause analysis (RCA), and incident runbooks across Linux, Docker, and CI/CD pipelines.*
 
@@ -57,4 +62,3 @@
   *Live web portfolio showcasing architectural matrices and troubleshooting case studies.*
 
 ---
-
